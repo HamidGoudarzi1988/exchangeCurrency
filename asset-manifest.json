@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/exchangeCurrency/static/css/main.550d594e.chunk.css",
+    "main.js": "/exchangeCurrency/static/js/main.f180c342.chunk.js",
+    "main.js.map": "/exchangeCurrency/static/js/main.f180c342.chunk.js.map",
+    "runtime-main.js": "/exchangeCurrency/static/js/runtime-main.50e7cb15.js",
+    "runtime-main.js.map": "/exchangeCurrency/static/js/runtime-main.50e7cb15.js.map",
+    "static/js/2.991d0d0e.chunk.js": "/exchangeCurrency/static/js/2.991d0d0e.chunk.js",
+    "static/js/2.991d0d0e.chunk.js.map": "/exchangeCurrency/static/js/2.991d0d0e.chunk.js.map",
+    "index.html": "/exchangeCurrency/index.html",
+    "precache-manifest.eacfccd7333b5df833fd92abe1a625b6.js": "/exchangeCurrency/precache-manifest.eacfccd7333b5df833fd92abe1a625b6.js",
+    "service-worker.js": "/exchangeCurrency/service-worker.js",
+    "static/css/main.550d594e.chunk.css.map": "/exchangeCurrency/static/css/main.550d594e.chunk.css.map",
+    "static/js/2.991d0d0e.chunk.js.LICENSE.txt": "/exchangeCurrency/static/js/2.991d0d0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50e7cb15.js",
+    "static/js/2.991d0d0e.chunk.js",
+    "static/css/main.550d594e.chunk.css",
+    "static/js/main.f180c342.chunk.js"
+  ]
+}
